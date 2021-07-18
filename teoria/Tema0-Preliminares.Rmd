@@ -1,12 +1,14 @@
 ---
 title: "Tema 0 - Preliminares"
 author: "Juan Gabriel Gomila & María Santos"
-date: 
-output: 
+date: 'null'
+output:
   ioslides_presentation:
-    widescreen: true
+    widescreen: yes
     css: Mery_style.css
     logo: Images/matriz_mov.gif
+  slidy_presentation: default
+  beamer_presentation: default
 ---
 
 ```{r setup, include=FALSE}
