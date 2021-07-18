@@ -24,7 +24,7 @@ use_python("/anaconda3/bin/python3")
 
 # Cuerpos
 
-## La estructura de cuerpo
+## La estructura de **cuerpo**
 
 <l class="definition">
 Cuerpo.
